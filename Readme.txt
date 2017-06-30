@@ -13,6 +13,9 @@ To execute: python extractPrice.py <image> <flag>
     PRICE_EXTRACTION - Shows just the images used on price extraction.
 
 **Input images: input_images directory
+	PF<x> - Images that price is found
+	PNF<x> - Images that price is not found, but price tag is found
+	PTNF<x> - Images that price tag is not found
 
 **Final report:
 	Final Report - English.pdf	-- English version
